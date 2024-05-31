@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ashish-monal
+- 👋 Hi, I’m Ashish Ranjan
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Web Application
+- 🌱 I’m working as a experiened React Native Developer
+- 💞️ I’m looking to collaborate on App Developer
 - 📫 How to reach me aviashishranjan@gmail.com
 
 <!---
